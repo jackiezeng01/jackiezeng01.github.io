@@ -684,7 +684,7 @@ section {
   border: 2px solid #82909c;
 }
 
-.resume button[type="submit"] {
+.resume button[type="button"] {
   background: #ffb727;
   border: 0;
   padding: 10px 24px;
@@ -693,7 +693,7 @@ section {
   border-radius: 5px;
 }
 
-.resume button[type="submit"]:hover {
+.resume button[type="button"]:hover {
   background: #ffc85a;
 }
 
