@@ -327,7 +327,7 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   flex-direction: column;
   padding: 0 15px;
-}
+} 
 
 #hero h1 {
   margin: 0 0 10px 0;
@@ -683,6 +683,21 @@ section {
   background: #fff;
   border: 2px solid #82909c;
 }
+
+.resume button[type="submit"] {
+  background: #ffb727;
+  border: 0;
+  padding: 10px 24px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 5px;
+}
+
+.resume button[type="submit"]:hover {
+  background: #ffc85a;
+}
+
+
 
 /*--------------------------------------------------------------
 # My Services
